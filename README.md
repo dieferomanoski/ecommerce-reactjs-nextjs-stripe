@@ -1,9 +1,9 @@
 # Uma aplicação fullstack moderna usando as seguintes tecnologias:
 
-Sanity
-<img height="32" width="32" src="https://cdn.simpleicons.org/React/61DAFB" /> React.js
-<img height="32" width="32" src="https://cdn.simpleicons.org/Next.js/000000" /> Next.js
-<img height="32" width="32" src="https://cdn.simpleicons.org/Stripe/008CDD" /> Stripe
+- Sanity <br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/React/61DAFB" /> React.js <br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Next.js/5C1F87" /> Next.js <br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Stripe/008CDD" /> Stripe <br>
 
 
 ![image](https://user-images.githubusercontent.com/39654508/201481580-2b131333-9613-452e-9d2d-52220f887eb0.png)
